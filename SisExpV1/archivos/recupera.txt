@@ -1,0 +1,5 @@
+usuario1/password1/admin/activo/nombre1/apellidos/cargo/horas de trabajo/
+usuario2/password2/user/activo/nombre2/apellidos/cargo/horas de trabajo/
+usuario3/password3/user/activo/nom/apellidos/cargo/horas de trabajo/
+usuario4/password4/user/activo/nombre4/apellidos/cargo/horas de trabajo/
+usuario5/password5/user/inactivo/apellidos/cargo/horas de trabajo/

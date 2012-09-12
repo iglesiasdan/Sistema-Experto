@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.6.5
+Created-By: 1.4.2_10-b03 (Sun Microsystems Inc.)
+
+Name: org/fife/plaf/
+Specification-Title: Microsoft Office/Visual Studio Look and Feels
+Specification-Version: 2.7
+Implementation-Title: org.fife.plaf
+Implementation-Version: 2.7
+Sealed: true
+

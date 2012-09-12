@@ -1,0 +1,4 @@
+usuario1/password1/admin/activo/Mario Antonios/Suárez López/Administrador/horas de trabajo/
+usuario2/password2/user/activo/Peter Jesus/Manzaneda Cabala/Juez Especializado/horas de trabajo/
+usuario3/password3/user/activo/Hugo/Fuentes Mesco/Juez Especializado/horas de trabajo/
+usuario4/password4/user/activo/Guido Armando/Chevarría/Juez Especializado/horas de trabajo/
